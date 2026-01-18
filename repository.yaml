@@ -1,0 +1,5 @@
+name: Cremalink Home Assistant Add-ons
+url: "https://github.com/miditkl/cremalink-ha"
+maintainer: "miditkl"
+source: "https://github.com/miditkl/cremalink-ha"
+homeassistant: "2024.6.0"
